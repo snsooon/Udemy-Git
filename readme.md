@@ -1,5 +1,5 @@
-## udemy-git course
+## udemy-Introduction to Git and GitHup course
 ### First Assignment
 
-name: Sina Haj Hasan
-note: Good Luck
+* name: Sina Haj Hasan
+* note: Good Luck
